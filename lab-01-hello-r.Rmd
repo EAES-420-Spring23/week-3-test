@@ -75,11 +75,15 @@ Each of your assignments will begin with the following steps.
 **NOTE** If you're reading this, it probably means you've completed these steps already, in which case, consider this review.
 
 -   I have created a template Github repository ("repo").
-    The first step is to generate your own private version of this repo using the Week 3 link: [CLICK HERE](https://docs.google.com/spreadsheets/d/1j1Vlib7LjWUAHAUrEdqktdHoYQYVsl5aXeLDDnEi3Cs/edit#gid=0).
+    The first step is to generate your own **private version** of this repo using the Week 3 link: [CLICK HERE](https://docs.google.com/spreadsheets/d/1j1Vlib7LjWUAHAUrEdqktdHoYQYVsl5aXeLDDnEi3Cs/edit#gid=0).
 
 -   The link will open a Github page where it asks you to name your repo.
     **Please name it: week-3-yourlastname**.
     For example, mine would be named: `week-3-mcnicol`
+
+-   NOTE: Please ensure you have selected `EAES-420-Spring23` as the "Owner".
+
+-   NOTE: Please ensure you select `Private` respository.
 
 -   The repo you just generated now contains your assignment, as well as the "starter" file you'll edit as your graded work.
 
