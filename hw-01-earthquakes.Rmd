@@ -70,9 +70,9 @@ Please go back to [Prerequisites] and complete them before continuing the assign
 
 For the coursework each week (exercises, lab, and homework) you will start with a GitHub repo that I created for you which contains all the files you will need.
 **I will share the link to your weekly repo on the Weekly Content blackboard page, on Monday before class**.
-For week 1 the repo will be called *week-1-yourlastname*.
+You will generate your own private repo from the template called: *week-X-yourlastname*.
 This week during class you cloned (copied) this repo into RStudioCloud and worked on the exercises and lab.
-For ths homework, you will build upon the *hw-01-earthquakes-starter* Rmd file for your homework assignment.
+For this homework, you will build upon the *hw-01-earthquakes-starter* Rmd file for your homework assignment.
 
 The first step is always to bring these files into RStudio so that you can edit them, run them, view your results, and interpret them.
 Since you already are looking at this homework 1 RMarkdown file, you have already accomplished all of this!

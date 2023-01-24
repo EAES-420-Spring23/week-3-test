@@ -74,13 +74,16 @@ Each of your assignments will begin with the following steps.
 
 **NOTE** If you're reading this, it probably means you've completed these steps already, in which case, consider this review.
 
--   Your Github repository (which we'll refer to as "repo" going forward) for this week (Week 3) is next to your name [here](https://docs.google.com/spreadsheets/d/1j1Vlib7LjWUAHAUrEdqktdHoYQYVsl5aXeLDDnEi3Cs/edit#gid=0).
+-   I have created a template Github repository ("repo").
+    The first step is to generate your own private version of this repo using the Week 3 link: [CLICK HERE](https://docs.google.com/spreadsheets/d/1j1Vlib7LjWUAHAUrEdqktdHoYQYVsl5aXeLDDnEi3Cs/edit#gid=0).
 
--   If you have not already provided your **github user name**, please add it to the green box so we can give you access to your private repo.
-    Please put your hand up and ask if you need help!
-    (this applies at all times)
+-   The link will open a Github page where it asks you to name your repo.
+    **Please name it: week-3-yourlastname**.
+    For example, mine would be named: `week-3-mcnicol`
 
--   The repo you just opened contains your assignment, as well as the "starter" file you'll edit as your graded work.
+-   The repo you just generated now contains your assignment, as well as the "starter" file you'll edit as your graded work.
+
+-   Now clone it into your RStudio workspace.
 
 ```{r clone-repo-link, fig.margin = TRUE, echo = FALSE, fig.width=3}
 knitr::include_graphics("img/clone-repo-link.png")
